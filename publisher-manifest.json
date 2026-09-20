@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ff4b3988d31b15193a207e32",
+  "owner": "rywytw3jm",
+  "repo": "page-997c51e2d75c1828b207b44e",
+  "title": "老板娘(CordCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "997c51e2d75c1828b207b44e",
+      "a": "老板娘(CordCloud)",
+      "b": "稳定全球clash加速器",
+      "entity": "老板娘(CordCloud)",
+      "brand": "老板娘(CordCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "be1a65febcfd8b62d06a87128acdfb3d88b178500001ac61792c618ca4e3a6aa",
+      "content": {
+        "primary_entity": "老板娘(CordCloud)",
+        "keyword1": "老板娘(CordCloud)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置以对应文档为准。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好合适套餐后，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，月付价格从 ¥15 到 ¥85，年付可享优惠，分别对应每月 100GB、300GB、1000GB 流量与 3 台、5 台、20 台设备同时在线，适合个人日常使用、多设备流媒体与团队协作等不同场景，节点池与专线配置也有差异，可根据设备数量与流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个方面了解使用方式。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版每月 300GB、5 台设备，团队版每月 1000GB、20 台设备，按需对照选择。",
+          "AI_FEATURE_TEXT_2": "手机、电脑、路由器等设备可按客户端文档分别配置订阅，多设备同时在线取决于所选套餐。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付价格更低，基础版 ¥150、旗舰版 ¥350、团队版 ¥850，可按使用周期决定。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TITLE_2": "设备按需选择",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配、按客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "老板娘(CordCloud)提供基础版、旗舰版与团队版三档套餐，覆盖不同流量和在线设备数量，搭配普通线路与 IPLC 专线节点，满足日常浏览、流媒体与游戏加速等场景，用户可根据设备数量和使用周期灵活选择。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付 15 元起，年付更优惠",
+          "AI_HIGHLIGHT_3": "普通线路与 IPLC 专线可选",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版在流量、设备数和流媒体解锁上更均衡，团队版面向多设备与高带宽需求，可对照流量和在线设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数量和预算，在基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本与客户端支持情况，按对应文档准备订阅环境。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅信息，完成后即可在所选设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "老板娘(CordCloud)套餐选购",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。超出后新设备无法同时在线，可在客户端退出其他设备登录再连接。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度网页与社交浏览通常基础版够用，4K 流媒体或频繁下载建议旗舰版以上。",
+          "AI_FAQ_ANSWER_3": "支持按年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算，适合稳定长期使用。",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线节点，对游戏延迟有优化；团队版提供 VIP 高带宽节点与企业定制路由，多设备并发更稳定。",
+          "AI_FAQ_ANSWER_5": "先根据设备数量与月流量选定套餐，再对照客户端文档导入订阅链接，更新节点后即可连接使用，过程通常几分钟完成。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的流量额度怎么选？",
+          "AI_FAQ_QUESTION_3": "支持按年付费吗？",
+          "AI_FAQ_QUESTION_4": "游戏或流媒体需要选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "如何开始使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "909na3.cn",
+    "host": "909na3.cn"
+  },
+  "file_hashes": {
+    "index.html": "2e830555426f30d0c935b4a25fe2047333e07501ff8b48fef2fbc9edfeed0fa6",
+    "sitemap.xml": "8847aa5e633445212f469dd51c315448181eddfeb85dcec4d602773a3da63a2c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a6328c72bfc9614cbe318e370ce6d914eb09e46d41784851d31c7d91b2455974",
+    "robots.txt": "0f46b078434a0747707ea949d5b30de539ad5e416431c8295a00a4b0b84aec92",
+    "c098e1ba715d8b2bcc4d9ab027699bdb.txt": "6797dcbc8aae5a702e7429b9731a57888bd0301c4b1f6e00a6aec7dbb014d908"
+  },
+  "revision": "0a6e03c229d782f8cab68acd39f95a5d3be8938448d9501ce70673024ef714ef"
+}
